@@ -1,3 +1,8 @@
+---
+layout: default
+title: 模拟中添加cation-pi相互作用
+---
+
 ## 模拟中添加cation-pi相互作用
 #### Blockage of Water Flow in Carbon Nanotubes by Ions Due to Interactions between Cations and Aromatic Rings
 
