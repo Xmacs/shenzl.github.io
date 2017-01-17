@@ -9,11 +9,11 @@ gems:
 
   # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+weibo_username:     po390
+zhihu_username:     Heed Lock
+github_username:    po390
 #twitter_username:  huxpro
-facebook_username:  huxpro
+# facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
 
 
