@@ -1,5 +1,5 @@
 title: 见微知著
-description: sci-molecular-dynamics-blog
+description: sci-blog
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-cayman
@@ -9,9 +9,9 @@ gems:
 
   # SNS settings
 RSS: false
-weibo_username:     po390
-zhihu_username:     Heed Lock
-github_username:    po390
+weibo_username:     Xmacs
+zhihu_username:     Xmacs
+github_username:    Xmacs
 #twitter_username:  huxpro
 # facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
@@ -67,7 +67,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，<br>离开世界之前，一切都是过程"
+sidebar-about-description: "从原子到全世界"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
