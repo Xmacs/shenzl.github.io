@@ -16,6 +16,10 @@ github_username:    Xmacs
 # facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
 
+favicon:
+  small:
+  medium: 
+  apple_touch_icon:
 
 
 # Build settings
