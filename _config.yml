@@ -17,9 +17,9 @@ github_username:    Xmacs
 # linkedin_username:  firstname-lastname-idxxxx
 
 favicon:
-  small:
-  medium: 
-  apple_touch_icon:
+  small: /img/头像.jpg
+  medium: /img/头像.jpg
+  apple_touch_icon: /img/头像.jpg
 
 
 # Build settings
