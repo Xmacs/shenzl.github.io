@@ -1,2 +1,2 @@
-# shenzl.github.io
+# sci-blog
 sci-blog
